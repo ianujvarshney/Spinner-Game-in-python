@@ -1,6 +1,19 @@
 # Spinner-Game-in-python
 
-<img align="center" src="https://github.com/ianujvarshney/Spinner-Game-in-python/blob/main/Spinners%20in%20python.png" >
+<h3>Run version python</h3>
+
+```python
+python version 3
+
+```
+<h3>install</h3>
+
+```python
+from turtle import*
+```
+<h3>Screenshots</h3>
+
+<img align="center" src="https://github.com/ianujvarshney/Spinner-Game-in-python/blob/main/Spinners%20in%20python.png">
 
 ----
 
@@ -10,8 +23,4 @@
 [![website: Newstechnews](https://img.shields.io/badge/Website-Newstechnews.in-2648ff?style=flat-square&logo=google-chrome)](https://www/newstechnews.in/)
 
 
-<h3>Important Library for Import in Project </h3>
 
-```python
-from turtle import*
-```
