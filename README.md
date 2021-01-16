@@ -1,3 +1,7 @@
+<p align = "center">
+  <img  src="https://thoughtsonprogramming.files.wordpress.com/2018/11/spinner.gif">
+</p>  
+
 # <h1>Spinner <a href="https://github.com/ianujvarshney/Spinner-Game-in-python">**`Game`**</a> Using **`python`** </h1>
 
 <h3>Run version python</h3>
@@ -11,9 +15,6 @@ python version 3
 ```python
 from turtle import*
 ```
-<h3>Screenshots</h3>
-
-<img align="center" src="https://github.com/ianujvarshney/Spinner-Game-in-python/blob/main/Spinners%20in%20python.png">
 
 ----
 
