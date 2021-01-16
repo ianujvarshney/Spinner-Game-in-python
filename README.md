@@ -1,4 +1,4 @@
-# Spinner-Game-in-python
+# <h1>Spinner <a href="https://github.com/ianujvarshney/Spinner-Game-in-python">**`Game`**</a> Using **`python`** </h1>
 
 <h3>Run version python</h3>
 
