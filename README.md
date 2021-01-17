@@ -31,7 +31,17 @@ ________________________________
 ```python
          python version 3
 ```
-         
+# Module Needed:
+```python 
+          from turtle import*
+```
+# Use of **`turtle`** Module:
+```python
+       1. Turtle is use a drawing board, which lets us command a turtle to draw all over it!
+       2. It is Commonly used turtle for turtle methods are turtle.forward() and turtle.right() etc:
+
+```
+        
 
 
 ----
