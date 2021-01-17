@@ -8,7 +8,9 @@
 <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
 </p>
 
+_____________________________
 # <h1>Spinner <a href="https://github.com/ianujvarshney/Spinner-Game-in-python">**`Game`**</a> Using **`python`** </h1>
+_____________________________
 
 <h3 align="center">
   
@@ -18,19 +20,18 @@
 
 </h3>  
 
-<h1>Prequisite</h1>
+________________________________
 
 # PreRequisite:
-
 ```python
-python version 3
-
+        ~ pip install PythonTurtle
 ```
-<h3>install</h3>
 
+# python **`Version`** Needed:
 ```python
-from turtle import*
-```
+         python version 3
+         
+
 
 ----
 <br/>
