@@ -14,7 +14,7 @@ _____________________________
 
 <h3 align="center">
   
--  This is one of my best project which I made in only `1 Days`.
+-  This is one cof my best project which I made in only `1 Days`.
 -  This is really amazing project to `play` children.
 -  They will help you is new creativity in `PYTHON`.
 
@@ -41,6 +41,10 @@ ________________________________
        2. It is Commonly used turtle for turtle methods are turtle.forward() and turtle.right() etc:
 
 ```
+
+ <img src="https://komarev.com/ghpvc/?username=Matplotlib&label=visits&logo=github&logoColor=yellow&style=for-the-badge" alt="Matplotlib" />
+          
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anujbhai-1997&label=Views&color=blue&style=plastic" alt="Anuj's" /> </p>
         
 
 
