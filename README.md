@@ -42,11 +42,6 @@ ________________________________
 
 ```
 
- <img src="https://komarev.com/ghpvc/?username=Matplotlib&label=visits&logo=github&logoColor=yellow&style=for-the-badge" alt="Matplotlib" />
-          
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anujbhai-1997&label=Views&color=blue&style=plastic" alt="Anuj's" /> </p>
-        
-
 
 ----
 <br/>
