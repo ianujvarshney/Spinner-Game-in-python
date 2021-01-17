@@ -48,6 +48,6 @@ ________________________________
 <br/>
 <p align="center">
 <img src="https://img.shields.io/github/issues/ianujvarshney/Spinner-Game-in-python?label=visits&logo=github&logoColor=yellow&style=for-the-badge" alt=ianujvarshney />
-<img src="https://img.shields.io/github/issues/ianujvarshney/Spinner-Game-in-python?label=updated&logo=github&logoColor=yellow&style=for-the-badge" alt=Iamtripathisatyam />
+<img src="https://img.shields.io/github/issues/ianujvarshney/Spinner-Game-in-python?label=updated&logo=github&logoColor=yellow&style=for-the-badge" alt=ianujvarshney />
 <img src="https://img.shields.io/github/last-commit/ianujvarshney/Spinner-Game-in-python?logo=github&logoColor=yellow&style=for-the-badge" alt=ianujvarshney />
 </p>
